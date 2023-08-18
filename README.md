@@ -39,5 +39,10 @@ In taking on this project, I was trying to:
 
 # Conclusion
 > The project was carried out to investigate international debt data collected by The World Bank. Several findings were made:
-- China had the most debt compared to other countries;
-- 
+- China had the most debt compared to other countries with over 96 Billion in USD;
+- The most common debt indicators were
+     - DT.AMT.DLXF.CD	Principal repayments on external debt, long-term (AMT, current US$),
+     - DT.AMT.DPNG.CD	Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$),
+     - DT.DIS.DLXF.CD	Disbursements on external debt, long-term (DIS, current US$).
+
+Overall, it was a great experience.:+1:
