@@ -20,7 +20,6 @@ This is the first in a series of projects that I accomplished in the
 > - What is the countries' average amount of debt owed across different debt indicators?
 
 # [Project Description](#ProjectDescription)
-<a name="ProjectDescription"/>
 To be able to take on this project, I needed to have learned:
 
 ### Courses:
