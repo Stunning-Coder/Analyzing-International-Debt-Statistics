@@ -24,7 +24,7 @@ To be able to take on this project, I needed to have learned:
 
 ### Courses:
 - [Introduction to SQL](https://www.datacamp.com/courses/introduction-to-sql)
-- [Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql)
+- [Intermediate SQL](https://app.datacamp.com/learn/courses/intermediate-sql) 
 
 ### Concepts:
 - Data Manipulation
