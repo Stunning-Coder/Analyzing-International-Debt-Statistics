@@ -13,7 +13,7 @@ This is the first in a series of projects that I accomplished in the
   <a name="Conclusion"/> 
 
 
-# Introduction
+# [Introduction](#Introduction)
 > In this notebook, we will analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like:
 > - What is the total amount of debt that is owed by the countries listed in the dataset?
 > - Which country owns the maximum amount of debt and what does that amount look like?
@@ -31,13 +31,13 @@ To be able to take on this project, I needed to have learned:
 - Data Importation
 - Data Cleaning
 
-# Goals
+# [Goals](#Goals)
 In taking on this project, I was trying to:
 - explore the provided data to investigate a trend
 - understand why countries borrowed and what technical reasons they had to owe the **World Bank**.
 
 
-# Conclusion
+# [Conclusion](#Conclusion)
 > The project was carried out to investigate international debt data collected by The World Bank. Several findings were made:
 - China had the most debt compared to other countries with over 96 Billion in USD;
 - The most common debt indicators were
